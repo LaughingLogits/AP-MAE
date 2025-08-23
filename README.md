@@ -6,7 +6,7 @@ The repository is structured into two main directories:
 - **Clustering**
 -  **Model** 
 
-The [**Clustering**](./Clustering) directory comprises all the code for clustering attention heads and visualizing these clusters.
+The [**Clustering**](./Clustering) directory comprises all the code for clustering attention heads as well as the code for training the CatBoost classifier.
 
 The [**Model**](./Model) directory comprises all the code for building the *AP-MAE* model. This includes the model architecture and the training setup.
 
